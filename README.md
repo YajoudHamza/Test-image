@@ -1,5 +1,5 @@
 # Test-image
 
-![Alt Text](https://giphy.com/gifs/gon-hunter-x-nvPNlAagUMWn6)
+Format: ![Alt Text](https://media.giphy.com/media/12IS8ZMgRw2aLC/giphy.gif)
 
 ![Texte alternatif](https://i.ytimg.com/vi/17Hg34LJuNc/hqdefault.jpg)
